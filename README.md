@@ -52,7 +52,7 @@ $$
 
 Las simulaciones se realizan durante **15 s**, con una señal de excitación aleatoria común a los tres modelos. El estado normotenso se toma como referencia para ajustar dos controladores PID y comparar las respuestas antes y después del control. Los resultados se reproducen en MATLAB/Simulink y Python. Esta práctica es exclusivamente computacional y académica.
 
-**Palabras clave:** Sistema cardiovascular; Windkessel; Controlador PID; Hipotensión; Hipertensión; MATLAB; Simulink; Python.
+**Palabras clave:** Sistema cardiovascular; Windkessel; Controlador PID; Hipotensión; Hipertensión.
 
 ## Lista de archivos incluidos en el repositorio
 
