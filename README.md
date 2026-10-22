@@ -4,12 +4,11 @@
 
 ## Información del estudiante
 
-Nombre y apellidos: ______________________________  
-Número de control: ______________________________  
-Correo institucional: ______________________________
+Zulema Guadalupe Tirado Manzo [23210724]; l23210724@tijuana.tecnm.mx
 
-**Asignatura:** Modelado de Sistemas Fisiológicos  
-**Carrera:** Ingeniería Biomédica
+Modelado de Sistemas Fisiológicos
+
+Ingeniería Biomédica
 
 ## Docente
 
