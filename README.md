@@ -57,13 +57,13 @@ Las simulaciones se realizan durante **15 s**, con una señal de excitación ale
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB (`.mlx`).
-2. Modelo de Simulink y Simscape Electrical (`.slx`).
+2. Modelo de Simulink (`.slx`).
 3. Código de Python (`.py`).
-4. Señal de entrada utilizada en las simulaciones (`.xlsx` u otro formato empleado).
-5. Imágenes y PDF de las simulaciones en lazo abierto y cerrado (`.png`, `.pdf`).
+4. Señal de entrada utilizada en las simulaciones (`.xlsx`).
+5. Imágenes y PDF de las simulaciones en lazo abierto(`.pdf`).
 6. Capturas de las ganancias y la sintonización de ambos controladores PID.
 7. Desarrollo matemático: ecuaciones de estado, funciones de transferencia, estabilidad y error en estado estacionario.
-8. Diagrama biológico del sistema cardiovascular elaborado en BioRender o herramienta equivalente.
+8. Diagrama biológico del sistema cardiovascular elaborado en BioRender.
 9. Archivo `README.md` y archivo de citación `CITATION.cff`.
 
 ## Referencias
