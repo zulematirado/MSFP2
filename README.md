@@ -25,10 +25,10 @@ Modelado de Sistemas Fisiológicos integra conceptos de Ingeniería de Control, 
 1. Identificar las variables y los parámetros hemodinámicos del modelo Windkessel de cuatro elementos.
 2. Obtener las ecuaciones de estado y la función de transferencia del sistema cardiovascular.
 3. Determinar el error en estado estacionario y analizar la estabilidad mediante los polos.
-4. Simular los estados hipotenso, normotenso e hipertenso en MATLAB/Simulink y Simscape Electrical.
+4. Simular los estados hipotenso, normotenso e hipertenso en MATLAB/Simulink.
 5. Comparar las respuestas en lazo abierto utilizando la misma señal aleatoria de entrada.
 6. Diseñar y sintonizar dos controladores PID independientes para los casos hipotenso e hipertenso, tomando como referencia el estado normotenso.
-7. Comparar las respuestas en lazo abierto y cerrado en MATLAB y Python.
+7. Comparar las respuestas en lazo abierto en MATLAB y Python.
 8. Elaborar un diagrama biológico del sistema cardiovascular y documentar los resultados.
 
 ## Descripción detallada del sistema
